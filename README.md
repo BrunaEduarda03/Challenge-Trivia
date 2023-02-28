@@ -27,8 +27,6 @@ https://user-images.githubusercontent.com/73250271/221950887-59e0f96c-ee92-428b-
 
 ## 🛠️ Como instalar
 
-⚠️ **Atenção**: Você precisa ter o docker e o docker-compose instalados em sua máquina para rodar o projeto.
-
 **Clonar este repositório**
 
 ```
