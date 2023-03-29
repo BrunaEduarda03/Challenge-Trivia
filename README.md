@@ -67,4 +67,4 @@ Linkedin: [Bruna Eduarda](https://www.linkedin.com/in/bruna-eduarda-a06a1b18b/)
 ---
 
 
-Desenvolvido por: [Bruna Eduarda](https://www.linkedin.com/in/bruna-eduarda-a06a1b18b/)
+Desenvolvido por: [Bruna Eduarda Cruz Maciel](https://www.linkedin.com/in/bruna-eduarda-a06a1b18b/)
